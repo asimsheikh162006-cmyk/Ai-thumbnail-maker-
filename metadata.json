@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Thumbnails Maker",
+  "description": "Generate high-CTR, cinematic YouTube thumbnails using AI. Upload a headshot, provide a title, and let the AI handle composition, lighting, and catchy hook text.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
